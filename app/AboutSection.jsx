@@ -12,9 +12,9 @@ export default function BackgroundBoxesDemo() {
       <h1 className={cn("md:text-4xl text-xl text-white relative z-20")}>
       About Section
       </h1>
-      <p className="text-center mt-2 text-neutral-300 relative z-20">
+      {/* <p className="text-center mt-2 text-neutral-300 relative z-20">
       <a href="#"><button type="submit" className='underline bg-white commit-btn px-8 py-2'>Contact Now</button></a>
-      </p>
+      </p> */}
     </div>
   );
 }
